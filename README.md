@@ -10,4 +10,6 @@ Delete this file if you wanna start over.
 
 ## Data Structure
 
-2 column data in csv format, one column for front of the card and another for the back of the card.
+2 column data in csv format, one column for front of the card and another for the back of the card. Check this file for example.
+
+> data/french_words.csv
